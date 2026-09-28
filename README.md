@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Account+Generator-1DA1F2?style=for-the-badge&logo=twitter" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="64" height="64" />
+</p>
+
 **⚡ Twitter / X Account Generator Free** — automated bulk account creation tool for Twitter / X. Creates verified accounts at scale with randomised profiles. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
